@@ -1,6 +1,6 @@
 # deploiement continu
 
-> Demo conférence -> deploiement
+> Demo conférence -> deploiement -
 
 ## Build Setup
 
